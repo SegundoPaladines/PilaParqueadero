@@ -1,0 +1,16 @@
+root { 
+    display: block;
+}
+
+.root {
+    -fx-background-image: url("/imagenes/parqueadero.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+.matriculas{
+    -fx-font-family:'Times New Roman';
+    -fx-font-weight: bold;
+    -fx-font-size: 10pt;
+    -fx-text-align:center ;
+    -fx-background-color: yellow;
+}
